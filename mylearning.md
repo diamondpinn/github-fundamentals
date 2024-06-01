@@ -9,7 +9,7 @@ During this course I have learned a great deal about Git and GitHub. Some things
 3. **Pull Requests**: How to review and merge code changes efficiently.
 4. **Markdown Syntax**: Writing clear and structured documentation. I think this will be quite fun to use.
 
-## What I'm Still Confused About
+## What I'm Still Confused About.
 
 I would not really say that I am confused but I think getting familiar with the terms and how to use the codes will definitely require a lot of practice but I maintain that I am equal to the task.
 
